@@ -16,3 +16,7 @@
 - 📊 Posible integración futura con estadísticas, logs y alertas
 
 ---
+
+## ⚖️ Licencia
+Este proyecto está distribuido bajo la Licencia MIT.
+Para fines educativos y éticos solamente. **_No me hago responsable del mal uso._**
